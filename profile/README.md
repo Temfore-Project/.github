@@ -1,6 +1,6 @@
 # Temfore: Temperature-based Food Recommendations
 
-    ![Temfore Cover](https://github.com/Temfore-Project/.github/blob/main/profile/Background-Temfore1.png?raw=true)
+![Temfore Cover](https://github.com/Temfore-Project/.github/blob/main/profile/Background-Temfore1.png?raw=true)
 
 ## C242-PS547
 
