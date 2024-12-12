@@ -1,6 +1,6 @@
 # Temfore: Temperature-based Food Recommendations
 
-[![Download](https://img.shields.io/badge/Download-%20Temfore_v.1.0.0-%6EC531?style=for-the-badge&logo=android&logoColor=green)](<[link_unduh_anda](https://github.com/Temfore-Project/Mobile-Development/releases/download/v1.0.0/TemforeApp-v1.0.0.apk)>)
+[![Download](https://img.shields.io/badge/Download-%20Temfore_v.1.0.0-%6EC531?style=for-the-badge&logo=android&logoColor=green)](https://github.com/Temfore-Project/Mobile-Development/releases/download/v1.0.0/TemforeApp-v1.0.0.apk)
 
 ![Temfore Cover](./Background-Temfore1.png)
 
