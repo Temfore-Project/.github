@@ -1,5 +1,7 @@
 # Temfore: Temperature-based Food Recommendations
 
+This project is part of the **Bangkit Academy 2024 batch 2** - _Product-Based Capstone Project C242-PS547_, where the focus is on providing innovative solutions for everyday challenges.
+
 [![Download](https://img.shields.io/badge/Download-%20Temfore_v.1.0.0-%6EC531?style=for-the-badge&logo=android&logoColor=green)](https://github.com/Temfore-Project/Mobile-Development/releases/download/v1.0.0/TemforeApp-v1.0.0.apk)
 
 ![Temfore Cover](./Background-Temfore1.png)
